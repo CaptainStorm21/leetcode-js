@@ -24,3 +24,12 @@ function lengthOfLongestSubstring(s) {
 }
 
 console.log(lengthOfLongestSubstring("welcome"))
+
+
+
+/*
+time complexity o(n)
+space complexity o(min(m,n)
+*/
+
+
